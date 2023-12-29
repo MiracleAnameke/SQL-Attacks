@@ -82,4 +82,4 @@ focuses on exploiting SQL injection vulnerabilities in web applications. Student
     <img src="https://i.imgur.com/lbx3P2T.png" height="400px" width="auto" alt="Finding Hidden Products in OWASP Juice Shop"/>
 
 
-**Conclusion**: LAB 07 equips students with an understanding of SQL injection attacks and hands-on experience in exploiting these vulnerabilities. Through a series of tasks, students learn to identify, exploit, and mitigate such vulnerabilities, emphasizing the importance of secure coding practices and database security measures.
+**Conclusion**: This LAB equips students with an understanding of SQL injection attacks and hands-on experience in exploiting these vulnerabilities. Through a series of tasks, students learn to identify, exploit, and mitigate such vulnerabilities, emphasizing the importance of secure coding practices and database security measures.
