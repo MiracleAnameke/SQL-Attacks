@@ -1,4 +1,4 @@
-# INFO-6076 – Web Security
+#  Web Security
 ## SQL Attacks
 
 ### Lab Requirements
